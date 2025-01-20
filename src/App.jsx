@@ -8,11 +8,9 @@ function App() {
   return (
     <>
       <NavBar />
-      <h1>Featured</h1>
       <Carousel />
-      <h1>Top Airing</h1>
+      <h className="text-5xl font-semibold text-white">Currently Airing</h>
       <Card />
-      <h1>Top Anime</h1>
     </>
   )
 }
