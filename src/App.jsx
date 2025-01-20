@@ -10,8 +10,9 @@ function App() {
       <NavBar />
       <h1>Featured</h1>
       <Carousel />
-      <h1>Top Anime</h1>
+      <h1>Top Airing</h1>
       <Card />
+      <h1>Top Anime</h1>
     </>
   )
 }

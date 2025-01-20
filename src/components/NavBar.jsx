@@ -12,15 +12,6 @@ export default function NavBar(){
                     </div>
                         <li><a>Home</a></li>
                         <li><a>Anime</a></li>
-                        <li>
-                            <details>
-                                <summary>Something</summary>
-                                <ul className="bg-base-100 rounded-t-none p-2">
-                                    <li><a>Link 1</a></li>
-                                    <li><a>Link 2</a></li>
-                                </ul>
-                            </details>
-                        </li>
                     </ul>
                 </div>
             </div>
